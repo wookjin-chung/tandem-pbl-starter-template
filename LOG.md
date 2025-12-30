@@ -1,11 +1,17 @@
 # Decision Log
 
-## Episode 001 — Motor drift issue
+## Episode 001 — 모터 드리프트 에피소드 작성 예시
+> 이 에피소드는 **Decision Log 작성 구조를 설명하기 위한 최소 예시**입니다.  
+> 실제 문제 해결은 Episode 002부터 시작됩니다.
 
-- Assumption:
-- Observation:
-- Interpretation:
-- Next Test:
+- Assumption (가정):
+  - 로봇이 직진하지 않는 이유는 좌우 모터의 출력이 동일하지 않기 때문일 수 있다고 가정한다.
+- Observation (관측):
+  - 직진 명령을 주었을 때 로봇이 한쪽 방향으로 휘어지며 주행하는 현상이 반복된다.
+- Interpretation (해석):
+  - 문제는 단순 고장이 아니라, 제어 또는 하드웨어 특성 차이에서 비롯되었을 가능성이 있다.
+- Next Test (다음 실험):
+  - 좌우 모터의 PWM 응답 차이가 실제로 존재하는지 확인하는 실험을 설계한다.
   
 ## Episode 002 — Motor drift issue (좌우 모터 편차 보정)
 
@@ -59,3 +65,13 @@
     → PWM 편차 보정이 유효하다고 판단한다.
   - 여전히 편향된다면
     → 다른 가설(B, C)을 다음 실험에서 검증한다.
+
+## Episode 003 — Motor drift issue (PWM 보정 적용 및 주행 안정성 평가)
+
+### 1) Assumption (가정)
+
+### 2) Observation (관측)
+
+### 3) Interpretation (해석)
+
+### 4) Next Test (다음 실험)
