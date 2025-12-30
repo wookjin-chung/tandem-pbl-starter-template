@@ -2,10 +2,8 @@
 > - 이 레포는 코드보다 **판단 기록**을 위한 공간입니다.  
 > - 정답/점수/자동 해결은 제공하지 않습니다.  
 > - Issue = 실험 기록, README = 규칙, AI = 거울
->  Episode 001은 Decision Log의 **작성 구조를 설명하기 위한 예시**이며,  
->  실제 문제 분석과 판단 기록은 Episode 002부터 시작됩니다.
->  Episode 001 demonstrates the **structure of a Decision Log**.  
->  Actual problem analysis and decision-making begin from Episode 002.
+> - Episode 001은 Decision Log의 **작성 구조를 설명하기 위한 예시**이며, 실제 문제 분석과 판단 기록은 Episode 002부터 시작됩니다.
+> - Episode 001 demonstrates the **structure of a Decision Log**. Actual problem analysis and decision-making begin from Episode 002.
  
  Tandem PBL Starter Template
  GitHub 기반 판단 기록 학습 공간 (Decision-Oriented Learning Repository)
