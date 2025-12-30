@@ -1,6 +1,13 @@
 # Decision Log
 
-## Episode 001 — Motor drift issue (좌우 모터 편차 보정)
+## Episode 001 — Motor drift issue
+
+- Assumption:
+- Observation:
+- Interpretation:
+- Next Test:
+  
+## Episode 002 — Motor drift issue (좌우 모터 편차 보정)
 
 - Date: 2025-12-30
 - Context:
