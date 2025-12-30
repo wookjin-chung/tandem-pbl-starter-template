@@ -3,10 +3,10 @@ name: Decision Log
 about: Record a decision episode (assumption → observation → interpretation → next test)
 title: "[Decision] "
 labels: decision
+---
 
 > ℹ️ 이 Issue는 실험 중인 판단을 기록하기 위한 공간입니다.  
 > 정리된 결과는 `LOG.md`의 새로운 **Decision Episode**로 옮겨 기록됩니다.
----
 
 ## 1. Assumption (가정)
 나는 무엇을 가정했는가?
