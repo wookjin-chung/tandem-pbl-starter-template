@@ -1,3 +1,8 @@
+> TL;DR  
+> - 이 레포는 코드보다 **판단 기록**을 위한 공간입니다.  
+> - 정답/점수/자동 해결은 제공하지 않습니다.  
+> - Issue = 실험 기록, README = 규칙, AI = 거울
+ 
  Tandem PBL Starter Template
  GitHub 기반 판단 기록 학습 공간 (Decision-Oriented Learning Repository)
 
@@ -88,6 +93,8 @@
   docs/
    └─ how_to_use_this_repo.md    ← 아주 짧은 사용 가이드
 
+** 이 레포에서의 모든 분석은 결과가 아니라
+** 판단 과정의 패턴을 이해하기 위한 목적으로만 사용됩니다.
 
 🏁 마지막으로
  이 레포는 완성하기 위한 공간이 아닙니다.
